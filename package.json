@@ -1,0 +1,13 @@
+{
+  "name": "test-vision-ai",
+  "version": "0.0.0",
+  "description": "An AI powered tool that describes testing instructions for any digital product's features based on screenshots.",
+  "scripts": {
+    "dev": "concurrently \"cd backend && npm run dev\" \"cd frontend && npm run dev\" "
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^9.0.0"
+  }
+}
