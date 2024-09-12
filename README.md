@@ -3,5 +3,5 @@
 Simply run this command to start the dev server on both the backend and the frontend.
 
 ```
-npm run dev
+git clone <repo link>
 ```
