@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
-const LandingPage = () => {
+export default function LandingPage() {
   return (
     <div className="font-sans min-h-screen bg-gray-50">
       <header className="bg-black text-center p-12">
@@ -51,5 +51,3 @@ const LandingPage = () => {
     </div>
   );
 };
-
-export default LandingPage;
