@@ -1,5 +1,5 @@
-import TestVision from "./components/TestVision/TestVision";
-import LandingPage from "./components/TestVision/LandingPage";
+import TestVision from "./pages/test-vision";
+import LandingPage from "./pages/landing-page";
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import './index.css';
 
