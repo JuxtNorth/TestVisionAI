@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-export default function TestVision() {
+export default TestVision = () => {
   const [context, setContext] = useState("");
   const [screenshot, setScreenshot] = useState([]);
 
